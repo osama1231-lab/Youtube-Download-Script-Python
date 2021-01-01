@@ -1,0 +1,4 @@
+if you want to download a video from youtube run video download.py on your python enviroment 
+if you want to download playlist  from youtube run playlist download.py on your python enviroment 
+you should Enter (video or playlist) link when it asked 
+IMPORTANT when python ask you about the quality   "choose 0 for 1st quality & 1 for 2nd quality and 2 for 3rd and so on"
